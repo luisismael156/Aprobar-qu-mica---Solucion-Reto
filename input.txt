@@ -1,0 +1,5 @@
+Cloro 17
+Calcio 20
+Rubidio 37
+Hierro 26
+Hidrogeno 0
