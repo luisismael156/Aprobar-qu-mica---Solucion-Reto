@@ -61,7 +61,4 @@ function mostrarContenido(contenido) {
 document
   .getElementById("file-input")
   .addEventListener("change", leerArchivo, false);
-Result.forEach((resultado) => {
-  var elemento = document.getElementById("contenido-archivo");
-  elemento.innerHTML += resultado.join(" ");
-});
+
